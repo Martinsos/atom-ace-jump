@@ -1,0 +1,19 @@
+{
+  "name": "ace-jump",
+  "main": "./lib/ace-jump",
+  "version": "0.0.0",
+  "description": "Ace jump",
+  "keywords": [
+    "jump"
+  ],
+  "activationCommands": {
+    "atom-pane": "ace-jump:to-pane"
+  },
+  "repository": "https://github.com/Martinsos/atom-ace-jump",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

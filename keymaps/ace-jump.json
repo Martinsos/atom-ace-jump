@@ -1,0 +1,6 @@
+{
+  "atom-pane": {
+    "ctrl-x o": "ace-jump:to-pane",
+    "ctrl-x j": "ace-jump:to-pane"
+  }
+}
